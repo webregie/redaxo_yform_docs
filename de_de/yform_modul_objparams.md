@@ -94,7 +94,7 @@ Default-Ausgabe:
 
 Damit kann dem das Formular umgebenden Container eine individuelle CSS-ID vergeben werden.  
 Default-Ausgabe:
-`<form id="yform">`
+`<div id="yform">`
 
 <a name="css-klasse-wrapper"></a>
 ### CSS-Klasse für den HTML-Wrapper
@@ -107,7 +107,7 @@ Default-Ausgabe:
 
 Damit kann dem das Formular umgebenden Container eine individuelle CSS-Klasse vergeben werden.  
 Default-Ausgabe:
-`<form class="yform">`
+`<div class="yform">`
 
 <a name="ausgabe-label"></a>
 ### Ausgabe der Label
